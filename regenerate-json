@@ -1,0 +1,3 @@
+#!/bin/sh
+
+jq --raw-input --slurp 'split("\n") | .[0:-1]' < stopwords-nap.txt > stopwords-nap.json
