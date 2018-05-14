@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-nap",
+  "description": "The most comprehensive collection of stopwords for the Neapolitan language.",
+  "keywords": [
+    "neapolitan",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/robertoreale/stopwords-nap",
+  "authors": [
+    "Roberto Reale <rober.reale@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-nap.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
