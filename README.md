@@ -1,4 +1,4 @@
-# Neapolitan stopwords collection.
+# Neapolitan stopwords collection
 
 The most comprehensive collection of stopwords for the Neapolitan language.
 
