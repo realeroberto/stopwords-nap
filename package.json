@@ -1,0 +1,26 @@
+{
+  "name": "stopwords-nap",
+  "version": "0.0.1",
+  "author": "Roberto Reale <rober.reale@gmail.com> (https://robertoreale.me)",
+  "description": "The most comprehensive collection of stopwords for the Neapolitan language.",
+  "keywords": [
+    "neapolitan",
+    "stopwords",
+    "stop words"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/robertoreale/stopwords-nap.git",
+  "bugs": "https://github.com/robertoreale/stopwords-nap/issues",
+  "main": "stopwords-nap.json",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "build": "stopwords-collator -s raw -o stopwords-nap",
+    "test": "npm run build && jsonlint stopwords-nap.json -q"
+  },
+  "devDependencies": {
+    "stopwords-collator": "*",
+    "jsonlint": "1.6.x"
+  }
+}
