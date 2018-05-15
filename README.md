@@ -1,5 +1,7 @@
 # Neapolitan stopwords collection
 
+[![Build Status](https://travis-ci.org/robertoreale/stopwords-nap.svg?branch=master)](https://travis-ci.org/robertoreale/stopwords-nap)
+
 The most comprehensive collection of stopwords for the Neapolitan language.
 
 Inspired by Gene Diaz's [comprehensive collection](https://github.com/stopwords-iso).
