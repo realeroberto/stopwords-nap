@@ -1,6 +1,6 @@
 # Neapolitan stopwords collection
 
-[![Build Status](https://travis-ci.org/reale/stopwords-nap.svg?branch=master)](https://travis-ci.org/reale/stopwords-nap)
+[![Build Status](https://travis-ci.com/reale/stopwords-nap.svg?branch=master)](https://travis-ci.org/reale/stopwords-nap)
 
 The most comprehensive collection of stopwords for the Neapolitan language.
 
