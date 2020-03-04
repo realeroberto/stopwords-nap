@@ -6,9 +6,9 @@
     "stopwords",
     "stop words"
   ],
-  "homepage": "https://github.com/robertoreale/stopwords-nap",
+  "homepage": "https://github.com/reale/stopwords-nap",
   "authors": [
-    "Roberto Reale <rober.reale@gmail.com>"
+    "Roberto Reale <roberto@reale.me>"
   ],
   "license": "MIT",
   "main": "stopwords-nap.json",

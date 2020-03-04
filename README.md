@@ -1,6 +1,6 @@
 # Neapolitan stopwords collection
 
-[![Build Status](https://travis-ci.org/robertoreale/stopwords-nap.svg?branch=master)](https://travis-ci.org/robertoreale/stopwords-nap)
+[![Build Status](https://travis-ci.org/reale/stopwords-nap.svg?branch=master)](https://travis-ci.org/reale/stopwords-nap)
 
 The most comprehensive collection of stopwords for the Neapolitan language.
 
@@ -9,8 +9,8 @@ Inspired by Gene Diaz's [comprehensive collection](https://github.com/stopwords-
 ## Usage
 
 The collection comes in a
-[JSON format](https://raw.githubusercontent.com/robertoreale/stopwords-nap/master/stopwords-nap.json) and a
-[text format](https://raw.githubusercontent.com/robertoreale/stopwords-nap/master/stopwords-nap.txt).
+[JSON format](https://raw.githubusercontent.com/reale/stopwords-nap/master/stopwords-nap.json) and a
+[text format](https://raw.githubusercontent.com/reale/stopwords-nap/master/stopwords-nap.txt).
 You are free to use this collection any way you like.
 It is only currently published on [npm](https://www.npmjs.com/stopwords-nap) and [bower](https://bower.io).
 
